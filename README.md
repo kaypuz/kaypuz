@@ -2,7 +2,7 @@
 
 ## About Me
 
-* Developer For - [Mari Rp](https://github.com/Project-Sloth)
+* Developer For - [Mari Rp](https://discord.gg/marirp)
 * Go Support [QBCore Framework](https://discord.gg/qbcore)
 * if you like my work and would like to buy me some coffee! - https://kaypuz.tebex.io
  ## Known Languages
