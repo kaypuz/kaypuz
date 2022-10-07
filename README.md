@@ -2,7 +2,7 @@
 
 ## About Me
 
-* Developer For - [Mari Rp](https://discord.gg/marirp)
+* Developer For - [-](https://discord.gg/)
 * Go Support [QBCore Framework](https://discord.gg/qbcore)
 * if you like my work and would like to buy me some coffee! - https://kaypuz.tebex.io
  ## Known Languages
